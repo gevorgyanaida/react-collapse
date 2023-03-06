@@ -1,0 +1,75 @@
+.collapse-heading {
+    background-color: rgb(170, 241, 170);
+    text-align: center;
+    color: aliceblue;
+    border-radius: 60px;
+}
+
+/* label{
+    display: block;
+    margin-bottom: 10px;
+    color: aliceblue;
+    font-size: 20px;
+} */
+
+textarea {
+    resize: none;
+    width: 100%;
+    min-height: 50px;
+}
+
+.collapse {
+    background-color: aliceblue;
+    padding: 10px;
+    max-height: 300px;
+}
+
+.sendBtn {
+    background-color: white;
+    width: 100%;
+    height: 25px;
+    border-radius: 60px;
+    border: none;
+    color: green;
+}
+
+.div-icon {
+    background-color: blue;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+}
+
+.div-message {
+    margin-top: 20px;
+    border: 1px solid green;
+    padding: 10px;
+    border-radius: 60px;
+    min-height: 30px;
+}
+
+.collapse-send {
+    margin-top: 10px;
+}
+
+.div-message-text {
+    display: inline-block;
+    
+}
+
+.collapse-chats {
+    max-height: 100px;
+    overflow: auto;
+}
+
+.collapse-body {
+    margin-top: 10px;
+}
+
+/*.collapse-i max-height-y mecacnel
+u .collapse-chats-i max-height-y mecacnel
+*/
